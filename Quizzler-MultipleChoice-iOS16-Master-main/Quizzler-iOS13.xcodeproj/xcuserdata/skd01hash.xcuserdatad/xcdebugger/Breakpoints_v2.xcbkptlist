@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C60555B5-F743-4C22-9F0A-E335CCD53564"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2D083C9-01E2-474F-A5A5-826C9F66E6A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Quizzler-iOS13/Model/QuizBrain.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "quiz"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A2D083C9-01E2-474F-A5A5-826C9F66E6A2 - 1c0c2796e559c237"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzler_iOS13.QuizBrain.init(questionNumber: Swift.Int, score: Swift.Int) -&gt; Quizzler_iOS13.QuizBrain"
+                  moduleName = "Quizzler-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skd01hash/Downloads/Quizzler-MultipleChoice-iOS16-Master-main/Quizzler-iOS13/Model/QuizBrain.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1288">
+               </Location>
+               <Location
+                  uuid = "A2D083C9-01E2-474F-A5A5-826C9F66E6A2 - 1c0c2796e559c237"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzler_iOS13.QuizBrain.init(questionNumber: Swift.Int, score: Swift.Int) -&gt; Quizzler_iOS13.QuizBrain"
+                  moduleName = "Quizzler-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skd01hash/Downloads/Quizzler-MultipleChoice-iOS16-Master-main/Quizzler-iOS13/Model/QuizBrain.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
